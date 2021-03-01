@@ -14,7 +14,6 @@ In [Wrapper](https://github.com/GoAnimate-Wrapper/GoAnimate-Wrapper), Set the co
 }
 ```
 
-# Credits
 
 # Custom Clothing & Other Custom Assets 
 Kenny Animate - Original idea
@@ -26,9 +25,14 @@ creepyjokes
 NathanSB
 KingHedgehog
 
+# Creator of the rest of the project
+VisualPlugin
 
-# Split/Custom Action Maker Mod 
-Kenny Animate
+# Designer of expressions
+BluePeacocks
 
-# Head Accessory Splitter Mod 
-Kenny Animate
+# Vyond Legacy Code
+https://ga.vyond.com/yourvideos
+
+# Software used to create go_full, cc and player.
+`Adobe Animate 2021`
