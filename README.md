@@ -1,6 +1,6 @@
-# Vyond Legacy Remastered
+# Vyond Legacy is back
 This is Last year Legacy Video maker is retired on 19th December 2019 Original Vyond Legacy called
-Vyond Legacy Remastered until 2020!
+Vyond Legacy is back!
 ## How to Contribute
 Simply make a pull request.
 
